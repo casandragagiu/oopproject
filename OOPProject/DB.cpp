@@ -1,13 +1,5 @@
 
 #include <iostream>
-
-int main() {
-
-	std::cout << std::endl << "Hello World!";
-
-}
-
-#include <iostream>
 #include <string>
 
 using namespace std;
@@ -46,3 +38,43 @@ public:
 
 
 };
+
+
+
+
+
+int main() {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	return 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
